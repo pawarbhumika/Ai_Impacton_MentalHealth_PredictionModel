@@ -1,7 +1,7 @@
 [project]
 name = "ai-impacton-mentalhealth-predictionmodel"
 version = "0.1.0"
-description = "Add your description here"
+description = "Ai_Impacton_MentalHealth_PredictionModel"
 readme = "README.md"
 authors = [
     { name = "pawarbhumika", email = "pawarbhumika528@gmail.com" }
